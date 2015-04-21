@@ -1,9 +1,4 @@
-﻿---
-layout: post
-category: "web"
-title:  "HTML5调查报告"
-tags: [Java Web]
----
+---layout: post category: "web" title:  "HTML5调查报告" tags: [Java Web]---
 # HTML5调查报告
 
 
