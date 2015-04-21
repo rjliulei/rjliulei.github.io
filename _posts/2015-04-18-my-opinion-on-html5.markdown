@@ -1,6 +1,9 @@
----layout: post category: "web" title:  "HTML5调查报告" tags: [Java Web]---
-# HTML5调查报告
-
+---
+layout: post 
+category: "web" 
+title:  "HTML5调查报告" 
+tags: [Java Web]
+---
 
 在单位偷闲时初略研究了下HTML5，以下是个人见解，嘿嘿~
 
