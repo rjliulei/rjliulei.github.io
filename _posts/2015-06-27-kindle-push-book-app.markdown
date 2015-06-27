@@ -1,6 +1,12 @@
-# Kindle Push Book 项目解析
+﻿---
+layout: post 
+category: "Android" 
+title:  "Kindle Push Book 项目解析
 
-最近刚入手一部KindlePaperWhite2，心情么么哒~
+" 
+tags: [Android]
+---
+# 最近刚入手一部KindlePaperWhite2，心情么么哒~
 
 ## 体验了一下有啥好的：
 * 1.电纸书，墨水屏这个感觉和真书就差翻页的唰唰声了。。
